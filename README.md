@@ -1,46 +1,40 @@
 <div align="center">
 
-# 👋 Hi, I'm **Bhoomi Sapke**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Bhoomi%20Sapke&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student&descAlignY=60&color=0:6366F1,50:8B5CF6,100:EC4899" width="100%"/>
 
-### 💻 Computer Engineering Student
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=700&color=8B7CFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Building+%26+Learning+%F0%9F%9A%80;Python+%7C+Java+%7C+C%2B%2B+%7C+Web+Development;Development+%E2%80%A2+Testing+%E2%80%A2+Automation+%E2%80%A2+Teamwork;Turning+ideas+into+working+software+%E2%9C%A8;Always+learning.+Always+building.+Always+improving.+%F0%9F%94%84" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Building+%7C+Learning+%7C+Improving+%F0%9F%9A%80;Development+%E2%80%A2+Testing+%E2%80%A2+Automation;Turning+ideas+into+working+software+%E2%9C%A8" />
 
 <br>
 
-<a href="https://github.com/bhoomisapke">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bhoomisapke/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:sapkebhoomi@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8B7CFF?style=flat-square&logo=google-chrome&logoColor=white" />
-</a>
+<a href="https://github.com/bhoomisapke"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bhoomisapke/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:sapkebhoomi@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bhoomisapke&label=PROFILE%20VIEWS&color=8B7CFF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=bhoomisapke&label=PROFILE%20VIEWS&style=flat-square&color=6C63FF"/>
 
 </div>
 
 ---
 
-## 🌱 About Me
+## 👩‍💻 About Me
 
-I'm a **Computer Engineering student** who enjoys learning by building practical software projects.
+I'm **Bhoomi Sapke**, a Computer Engineering student interested in **software development, automation, databases, web technologies, and software testing**.
 
-I'm interested in **software development, automation, databases, web technologies, and software testing**.
+During my industrial training with **Team NOVAS**, I worked across different project sprints with responsibilities in **Scrum Master, Development, and QA**.
 
-During my industrial training with **Team NOVAS**, I had the opportunity to work in different responsibilities across different project sprints — including **Scrum Master, Developer, and QA responsibilities**.
+I enjoy learning through practical projects and believe in:
 
-This experience helped me understand that software development is not only about coding, but also about **requirements, planning, teamwork, integration, testing, debugging, and continuous improvement.**
+<div align="center">
+
+**Learn → Build → Test → Debug → Improve 🚀**
+
+</div>
 
 ---
 
@@ -48,163 +42,177 @@ This experience helped me understand that software development is not only about
 
 <div align="center">
 
-### 🚀 3 Projects &nbsp; • &nbsp; Different Roles &nbsp; • &nbsp; One Team
+### 🚀 3 Projects &nbsp; • &nbsp; Different Responsibilities &nbsp; • &nbsp; One Team
 
 </div>
 
----
+<table>
+<tr>
 
-# 🎙️ NOVA — Voice Recognition Engine
+<td width="34%" valign="top">
 
-### 📋 Role: **Scrum Master**
+<h3 align="center">🎙️ NOVA</h3>
 
-> 🚧 **Status: In Development**
+<p align="center">
+<b>Scrum Master</b><br>
+🚧 <b>In Development</b>
+</p>
 
-NOVA is a Python-based voice recognition and automation engine designed to interact with **applications, websites, files, folders, and system operations using voice commands**.
+Python-based **voice recognition and automation engine** for interacting with applications, websites, files, folders and system operations.
 
-This was my **major contribution** during industrial training.
+<b>Major Contributions</b>
 
-### 🔥 My Contributions
+- 📄 Requirement Document
+- 📋 Module planning
+- 👥 Assigned modules to team members
+- 🤝 Managed team coordination
+- 🔗 Integrated team code
+- 🧪 Tested integrated modules
+- 🐛 Resolved errors
+- 🔍 Reviewed team work
+- 📊 Managed project progress
 
-- 📄 Prepared the **Project Requirement Document**
-- 📋 Planned and organized project modules
-- 👥 Assigned modules and responsibilities to team members
-- 🤝 Coordinated the team's development activities
-- 🔗 Integrated code developed by different team members
-- 🧪 Tested integrated functionality
-- 🐛 Identified and resolved errors and integration issues
-- 🔍 Reviewed team members' work
-- 📊 Managed project progress and coordination
+<b>Current Work</b>
 
-### 🚧 Current Work
+🐛 Bug fixing  
+🎨 GUI development  
+🌐 Web/Application interface  
+⚙️ Stability improvements
 
-NOVA is **not completely finished yet**.
+</td>
 
-We are currently working on:
+<td width="33%" valign="top">
 
-- 🐛 Fixing remaining bugs
-- 🧪 Improving testing and stability
-- 🎨 Developing a **GUI**
-- 🌐 Exploring a **web/application-based interface**
-- ⚙️ Improving the overall user experience
+<h3 align="center">📧 Email Automation</h3>
 
-<div align="center">
+<p align="center">
+<b>Developer</b><br>
+✅ <b>Completed</b>
+</p>
 
-**📄 Requirements** → **👥 Assign** → **💻 Develop** → **🔗 Integrate** → **🧪 Test** → **🐛 Fix** → **🚀 Improve**
+An automation project developed to manage and automate different **email-related operations**.
 
-</div>
-
----
-
-# 📧 Email Automation
-
-### 💻 Role: **Developer**
-
-> ✅ **Status: Completed**
-
-An email automation project developed as part of Team NOVAS to automate and manage different email-related operations.
-
-### 🔥 My Contributions
+<b>My Contributions</b>
 
 - 💻 Developed assigned modules
-- ⚙️ Implemented project functionality
-- 🔄 Worked on module integration
-- 🐛 Debugged application issues
-- 🧪 Tested implemented functionality
-- 🔧 Resolved development issues
+- ⚙️ Implemented functionality
+- 🔗 Module integration
+- 🐛 Debugging
+- 🧪 Testing
+- 🔧 Error resolution
+
+<br>
 
 <div align="center">
 
-**📋 Plan** → **💻 Develop** → **🔗 Integrate** → **🧪 Test** → **✅ Complete**
+📋 Plan  
+↓  
+💻 Develop  
+↓  
+🔗 Integrate  
+↓  
+🧪 Test  
+↓  
+✅ Complete
 
 </div>
 
----
+</td>
 
-# ⏰ Automatic Task Scheduler
+<td width="33%" valign="top">
 
-### 💻 Role: **Developer + QA**
+<h3 align="center">⏰ Automatic Task Scheduler</h3>
 
-> ✅ **Status: Completed**
+<p align="center">
+<b>Developer + QA</b><br>
+✅ <b>Completed</b>
+</p>
 
 A task scheduling application developed as part of Team NOVAS.
 
-### 🔥 My Contributions
+<b>As Developer</b>
 
-**As Developer**
+- 💻 Developed functionality
+- 🎨 Implemented GUI
+- ⚙️ Integrated components
+- 🐛 Debugged issues
 
-- 💻 Developed assigned functionality
-- 🎨 **Designed and implemented the GUI**
-- ⚙️ Integrated project components
-- 🐛 Debugged development issues
+<b>As QA</b>
 
-**As QA**
-
-- 🧪 Tested application functionality
-- 🔍 Identified bugs and unexpected behavior
+- 🧪 Tested functionality
+- 🔍 Found bugs
 - 🐛 Verified fixes
-- ✅ Helped ensure the application worked as expected
+- ✅ Checked application behavior
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ⚡ Development Workflow
 
 <div align="center">
 
-**💡 Idea** → **📋 Requirements** → **💻 Develop** → **🎨 GUI** → **🧪 Test** → **✅ Complete**
+ 💡 Idea &nbsp; → &nbsp;
+ 📋 Requirements &nbsp; → &nbsp;
+ 👥 Planning &nbsp; → &nbsp;
+ 💻 Development &nbsp; → &nbsp;
+ 🔗 Integration &nbsp; → &nbsp;
+ 🧪 Testing &nbsp; → &nbsp;
+ 🐛 Debugging &nbsp; → &nbsp;
+ 🚀 Improvement
+
+</div>
+
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+**Programming**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
+
+**Web**
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+
+**Database & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode"/>
 
 </div>
 
 ---
 
-# ⚡ My Development Workflow
+## 📚 Currently Learning
 
 <div align="center">
 
-### 💡 Idea &nbsp; → &nbsp; 📋 Requirements &nbsp; → &nbsp; 👥 Plan & Assign &nbsp; → &nbsp; 💻 Develop &nbsp; → &nbsp; 🔗 Integrate &nbsp; → &nbsp; 🧪 Test &nbsp; → &nbsp; 🐛 Debug &nbsp; → &nbsp; 🚀 Improve
+<img src="https://skillicons.dev/icons?i=react,typescript"/>
+
+<br>
+
+**React** &nbsp; • &nbsp; **TypeScript** &nbsp; • &nbsp; **Web Development**  
+**Backend Development** &nbsp; • &nbsp; **Database Management** &nbsp; • &nbsp; **Software Testing**
+
+<br>
+
+🌱 *Learning through projects and hands-on practice.*
 
 </div>
 
 ---
 
-# 🛠️ Technologies & Tools
-
-### 👩‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-
-### 🌐 Web Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
----
-
-# 📚 Currently Learning
+## ⚙️ What I Like Working On
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript" />
-
-<br><br>
-
-**React** • **TypeScript** • **Web Development** • **Backend Development**  
-**Database Management** • **Software Testing** • **Git & GitHub**
-
-</div>
-
-> 🌱 I'm continuously learning and improving my skills through projects and hands-on practice.
-
----
-
-# ⚙️ What I Like Working On
-
-<div align="center">
-
-| ⚡ Automation | 💻 Development | 🧪 QA & Testing | 👥 Teamwork |
+| ⚡ Automation | 💻 Development | 🧪 QA & Testing | 🤝 Teamwork |
 |:---:|:---:|:---:|:---:|
 | Task Automation | Python Projects | Testing | Collaboration |
 | Voice Automation | Web Projects | Debugging | Coordination |
@@ -214,43 +222,31 @@ A task scheduling application developed as part of Team NOVAS.
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
 <div align="center">
 
-### 🚧 Coming Soon
+🚧 **Coming Soon**
 
-I'm currently building my personal developer portfolio to showcase my **projects, skills, learning journey, and industrial training experience**.
+I'm currently building my personal developer portfolio to showcase my:
 
-### Something exciting is being built... 🚀
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhoomisapke&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomisapke&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 My Development Philosophy
-
-<div align="center">
-
-### **LEARN → BUILD → TEST → AUTOMATE → IMPROVE → REPEAT 🔄**
+**Projects • Skills • Learning Journey • Industrial Training**
 
 <br>
 
-> *Learning never stops when you're building something.*
+✨ **Something exciting is being built...**
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bhoomisapke&show_icons=true&hide_border=true&theme=transparent&title_color=6C63FF&icon_color=6C63FF&rank_icon=github"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomisapke&theme=transparent&hide_border=true&ring=6C63FF&fire=EC4899&currStreakLabel=6C63FF"/>
 
 </div>
 
@@ -258,10 +254,18 @@ I'm currently building my personal developer portfolio to showcase my **projects
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+### 🎯 LEARN → BUILD → TEST → AUTOMATE → IMPROVE → REPEAT 🔄
 
-### ✨ Thanks for visiting my profile!
+<br>
 
-**Keep Learning • Keep Building • Keep Improving 🚀**
+<a href="https://github.com/bhoomisapke">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/bhoomisapke/">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="mailto:sapkebhoomi@gmail.com">Email</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6366F1,50:8B5CF6,100:EC4899" width="100%"/>
 
 </div>
