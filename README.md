@@ -1,126 +1,240 @@
 <div align="center">
 
-# 👋 Hi, I'm Bhoomi Satke
+# 👋 Hi, I'm **Bhoomi Sapke**
 
-### 💻 Computer Engineering Student • Developer • QA • Scrum Master
+### 💻 Computer Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A7ADB&center=true&vCenter=true&width=700&lines=Building+projects+%F0%9F%9A%80;Learning+something+new+every+day+%F0%9F%93%9A;Developer+%7C+QA+%7C+Scrum+Master+%F0%9F%91%A9%F0%9F%92%BB;Turning+ideas+into+working+software+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=700&color=8B7CFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Building+%26+Learning+%F0%9F%9A%80;Python+%7C+Java+%7C+C%2B%2B+%7C+Web+Development;Development+%E2%80%A2+Testing+%E2%80%A2+Automation+%E2%80%A2+Teamwork;Turning+ideas+into+working+software+%E2%9C%A8;Always+learning.+Always+building.+Always+improving.+%F0%9F%94%84" alt="Typing Animation" />
 
 <br>
 
 <a href="https://github.com/bhoomisapke">
-<img src="https://img.shields.io/badge/GitHub-bhoomisapke-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bhoomisapke/">
-<img src="https://img.shields.io/badge/LinkedIn-Bhoomi%20Satke-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:sapkebhoomi@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8B7CFF?style=flat-square&logo=google-chrome&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=bhoomisapke&label=PROFILE%20VIEWS&color=8B7CFF&style=flat-square" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🌱 About Me
 
-🎓 Diploma **Computer Engineering** student with a strong interest in software development.
+I'm a **Computer Engineering student** who enjoys learning by building practical software projects.
 
-💡 I enjoy turning ideas into practical projects and learning by building.
+I'm interested in **software development, automation, databases, web technologies, and software testing**.
 
-👩‍💻 During my industrial training with **Team NOVAS**, I worked across three different responsibilities:
+During my industrial training with **Team NOVAS**, I had the opportunity to work in different responsibilities across different project sprints — including **Scrum Master, Developer, and QA responsibilities**.
 
-- 💻 **Developer**
-- 🧪 **QA**
-- 📋 **Scrum Master**
-
-I believe good software is not only about writing code — it is also about **testing, debugging, collaboration, communication, and continuously improving the solution.**
+This experience helped me understand that software development is not only about coding, but also about **requirements, planning, teamwork, integration, testing, debugging, and continuous improvement.**
 
 ---
 
-## ⚡ Tech Stack
+# 🏢 Industrial Training — Team NOVAS
 
-### 👩‍💻 Programming
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+### 🚀 3 Projects &nbsp; • &nbsp; Different Roles &nbsp; • &nbsp; One Team
 
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-### 🗄️ Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</div>
 
 ---
 
-## 🚀 Industrial Training — Team NOVAS
+# 🎙️ NOVA — Voice Recognition Engine
 
-During my industrial training, I contributed to three team projects while taking different responsibilities throughout the development process.
+### 📋 Role: **Scrum Master**
 
-### ⏰ Automatic Task Scheduler
+> 🚧 **Status: In Development**
 
-A task scheduling project developed as part of Team NOVAS.
+NOVA is a Python-based voice recognition and automation engine designed to interact with **applications, websites, files, folders, and system operations using voice commands**.
 
-**My Contribution**
-- 💻 Development
-- 🎨 GUI implementation
-- 🧪 Testing
-- 🐛 Debugging
+This was my **major contribution** during industrial training.
 
----
+### 🔥 My Contributions
 
-### 🤖 ML Automation
+- 📄 Prepared the **Project Requirement Document**
+- 📋 Planned and organized project modules
+- 👥 Assigned modules and responsibilities to team members
+- 🤝 Coordinated the team's development activities
+- 🔗 Integrated code developed by different team members
+- 🧪 Tested integrated functionality
+- 🐛 Identified and resolved errors and integration issues
+- 🔍 Reviewed team members' work
+- 📊 Managed project progress and coordination
 
-A team-based automation project involving machine-learning-related functionality.
+### 🚧 Current Work
 
-**My Contribution**
-- 💻 Assigned development tasks
-- 🧪 QA and testing
-- 🐛 Debugging
-- 🔄 Integration support
+NOVA is **not completely finished yet**.
 
----
+We are currently working on:
 
-### 🎙️ NOVA — Voice Recognition Engine
+- 🐛 Fixing remaining bugs
+- 🧪 Improving testing and stability
+- 🎨 Developing a **GUI**
+- 🌐 Exploring a **web/application-based interface**
+- ⚙️ Improving the overall user experience
 
-A Python-based voice automation engine designed to interact with applications, websites, files, folders and system operations through voice commands.
+<div align="center">
 
-**My Contribution**
-- 💻 Development of assigned modules
-- 🧪 Testing and debugging
-- 🔄 Integration
-- ⚙️ Voice-command functionality
+**📄 Requirements** → **👥 Assign** → **💻 Develop** → **🔗 Integrate** → **🧪 Test** → **🐛 Fix** → **🚀 Improve**
 
----
-
-## 🧪 My Development Journey
-
-```text
-Learn → Build → Test → Debug → Improve → Repeat 🔄
-```
-
-I'm particularly interested in understanding how software works beyond just writing individual programs — from **development and databases to testing and team collaboration**.
+</div>
 
 ---
 
-## 📚 Currently Learning
+# 📧 Email Automation
 
-- 🚀 Full-Stack Development
-- 🐍 Python Development
-- ⚙️ Backend Technologies
-- 🌐 TypeScript
-- 🗄️ Database Management
-- 🧪 Software Testing & QA
-- 🔧 Git & GitHub Workflows
+### 💻 Role: **Developer**
+
+> ✅ **Status: Completed**
+
+An email automation project developed as part of Team NOVAS to automate and manage different email-related operations.
+
+### 🔥 My Contributions
+
+- 💻 Developed assigned modules
+- ⚙️ Implemented project functionality
+- 🔄 Worked on module integration
+- 🐛 Debugged application issues
+- 🧪 Tested implemented functionality
+- 🔧 Resolved development issues
+
+<div align="center">
+
+**📋 Plan** → **💻 Develop** → **🔗 Integrate** → **🧪 Test** → **✅ Complete**
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
+# ⏰ Automatic Task Scheduler
+
+### 💻 Role: **Developer + QA**
+
+> ✅ **Status: Completed**
+
+A task scheduling application developed as part of Team NOVAS.
+
+### 🔥 My Contributions
+
+**As Developer**
+
+- 💻 Developed assigned functionality
+- 🎨 **Designed and implemented the GUI**
+- ⚙️ Integrated project components
+- 🐛 Debugged development issues
+
+**As QA**
+
+- 🧪 Tested application functionality
+- 🔍 Identified bugs and unexpected behavior
+- 🐛 Verified fixes
+- ✅ Helped ensure the application worked as expected
+
+<div align="center">
+
+**💡 Idea** → **📋 Requirements** → **💻 Develop** → **🎨 GUI** → **🧪 Test** → **✅ Complete**
+
+</div>
+
+---
+
+# ⚡ My Development Workflow
+
+<div align="center">
+
+### 💡 Idea &nbsp; → &nbsp; 📋 Requirements &nbsp; → &nbsp; 👥 Plan & Assign &nbsp; → &nbsp; 💻 Develop &nbsp; → &nbsp; 🔗 Integrate &nbsp; → &nbsp; 🧪 Test &nbsp; → &nbsp; 🐛 Debug &nbsp; → &nbsp; 🚀 Improve
+
+</div>
+
+---
+
+# 🛠️ Technologies & Tools
+
+### 👩‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+
+### 🌐 Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript" />
+
+<br><br>
+
+**React** • **TypeScript** • **Web Development** • **Backend Development**  
+**Database Management** • **Software Testing** • **Git & GitHub**
+
+</div>
+
+> 🌱 I'm continuously learning and improving my skills through projects and hands-on practice.
+
+---
+
+# ⚙️ What I Like Working On
+
+<div align="center">
+
+| ⚡ Automation | 💻 Development | 🧪 QA & Testing | 👥 Teamwork |
+|:---:|:---:|:---:|:---:|
+| Task Automation | Python Projects | Testing | Collaboration |
+| Voice Automation | Web Projects | Debugging | Coordination |
+| Email Automation | Database Projects | Bug Finding | Project Planning |
+
+</div>
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+### 🚧 Coming Soon
+
+I'm currently building my personal developer portfolio to showcase my **projects, skills, learning journey, and industrial training experience**.
+
+### Something exciting is being built... 🚀
+
+</div>
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhoomisapke&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomisapke&theme=transparent&hide_border=true" />
 
@@ -128,34 +242,26 @@ I'm particularly interested in understanding how software works beyond just writ
 
 ---
 
-## 🎯 What I'm Working Toward
-
-> **Build. Learn. Test. Improve. Repeat.**
-
-My goal is to keep building practical projects, strengthen my software-development skills, and grow into a professional developer who can contribute effectively to real-world teams.
-
----
-
-## 🤝 Let's Connect
+# 🎯 My Development Philosophy
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bhoomisapke/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:sapkebhoomi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-sapkebhoomi%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-
-</div>
+### **LEARN → BUILD → TEST → AUTOMATE → IMPROVE → REPEAT 🔄**
 
 <br>
 
+> *Learning never stops when you're building something.*
+
+</div>
+
+---
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 
 ### ✨ Thanks for visiting my profile!
 
-**Explore my repositories and follow my journey as I build and learn. 🚀**
+**Keep Learning • Keep Building • Keep Improving 🚀**
 
 </div>
